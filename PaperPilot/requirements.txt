@@ -1,0 +1,13 @@
+streamlit
+python-dotenv
+openai
+chromadb
+sentence-transformers
+pydantic>=2    
+PyMuPDF
+unstructured[pdf]
+unstructured-inference
+python-docx
+openpyxl
+nltk
+anthropic
